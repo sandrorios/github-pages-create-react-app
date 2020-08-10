@@ -1,0 +1,2 @@
+(this["webpackJsonphello-world"]=this["webpackJsonphello-world"]||[]).push([[0],{12:function(e,n,t){},13:function(e,n,t){"use strict";t.r(n);var o=t(0),r=t.n(o),c=t(2),a=t.n(c),u=t(3),l=t(4),i=t(5),s=t(6),p=(t(12),function(e){Object(s.a)(t,e);var n=Object(i.a)(t);function t(){return Object(u.a)(this,t),n.apply(this,arguments)}return Object(l.a)(t,[{key:"render",value:function(){}}]),t}(o.Component));a.a.render(r.a.createElement(p,null),document.getElementById("root"))},7:function(e,n,t){e.exports=t(13)}},[[7,1,2]]]);
+//# sourceMappingURL=main.e9438607.chunk.js.map
